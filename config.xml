@@ -28,9 +28,5 @@
     <gap:splash src="res/screen/ios/screen-ipad-portrait.png"      gap:platform="ios"     width="768" height="1024" />
     <gap:splash src="res/screen/ios/screen-ipad-landscape.png"     gap:platform="ios"     width="1024" height="768" />
     
-    <gap:plugin name="com.phonegap.plugins.facebookconnect">
-        <param name="APP_ID" value="217126741800298" />
-        <param name="APP_NAME" value="testelogarbeleza" />
-    </gap:plugin>      
     
 </widget>
