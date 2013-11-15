@@ -6,4 +6,11 @@
     <access origin="*"/>
     <preference name="fullscreen" value="false"/>
     <preference name="webviewbounce" value="true"/>
+
+ 
+    <gap:plugin name="com.phonegap.plugins.facebookconnect">
+        <param name="APP_ID" value="217126741800298" />
+        <param name="APP_NAME" value="testelogarbeleza" />
+    </gap:plugin>      
+    
 </widget>
